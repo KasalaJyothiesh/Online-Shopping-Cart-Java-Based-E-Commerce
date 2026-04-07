@@ -4,7 +4,7 @@
 
 AVVJ_CART is a desktop-based online shopping cart simulation developed using **Java Swing** for the graphical user interface and **MySQL** for database management. The project demonstrates the core functionality of an e-commerce system including user authentication, product management, and cart operations.
 
-## 🚀 Features
+## Features
 
 * User Login and Sign Up system
 * Forgot Password functionality
@@ -15,7 +15,7 @@ AVVJ_CART is a desktop-based online shopping cart simulation developed using **J
 * MySQL database integration using JDBC
 * Simple and user-friendly GUI
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 * **Java (Core Java)**
 * **Java Swing** – GUI Development
@@ -23,7 +23,7 @@ AVVJ_CART is a desktop-based online shopping cart simulation developed using **J
 * **JDBC** – Database Connectivity
 * **NetBeans / Java IDE**
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 src/
@@ -43,7 +43,7 @@ src/
       └── TestConnection.java
 ```
 
-## 🗄️ Database
+## Database
 
 The database schema is provided in:
 
@@ -53,7 +53,7 @@ database.sql
 
 Import this file into **MySQL** before running the application.
 
-## ▶️ How to Run
+## How to Run ?
 
 1. Clone the repository
 2. Import the project into **NetBeans / any Java IDE**
@@ -62,7 +62,7 @@ Import this file into **MySQL** before running the application.
 5. Update database credentials in `DBConnection.java`
 6. Run the project
 
-## 🎯 Purpose of the Project
+## Purpose of the Project
 
 This project was developed to understand:
 
@@ -71,7 +71,7 @@ This project was developed to understand:
 * Implementation of a basic shopping cart system
 * Role-based dashboards (Admin, Supplier, User)
 
-## 👨‍💻 Author
+## Author
 
-NB Akiranandan
+Jyothiesh Kasala
 B.Tech Computer Science Engineering
